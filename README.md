@@ -21,7 +21,7 @@ A README.md Generator that takes in user data and creates a professional README.
 
 
 ## Installation
-node and inquirer
+npm install node and inquirer (latest versions are ideal)
 
 
 ## License
