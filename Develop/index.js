@@ -39,7 +39,7 @@ const questions = [
     type: "list",
     name: "license",
     messaage: "What license does your project use?",
-    choices: ["MIT", "Apache 2.0", "GPL 3.0", "None"],
+    choices: ["MIT", "Apache_2.0", "GPL_3.0", "None"],
   },
   {
     type: "input",
@@ -48,8 +48,36 @@ const questions = [
   },
   {
     type: "input",
-    name: "test",
+    name: "tests",
     message: "What tests did you use for this project?",
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "What command runs this application?",
+  },
+  {
+    type: "confirm",
+    name: "questions",
+    message: "Do you have questions regarding this project?",
+    default: "true",
+    validate: (confirmTrue) => {
+      if (confirmTrue) {
+        return true;
+      } else {
+        console.log("Certainly people will have questions, yes?");
+      }
+    },
+  },
+  {
+    type: "input",
+    name: "username",
+    message: "What is your GitHub Username?",
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "What is your GitHub-related email?",
   },
 ];
 
