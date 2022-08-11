@@ -63,7 +63,7 @@ ${renderLicenseSection(data.license)}
 ${data.contributors}
 
 ## Tests
-${data.test}
+${data.tests}
 
 
 ## Usage
@@ -75,8 +75,7 @@ ${data.usage}
 Contact Me:
 Github: [${data.username}](https://github.com/${data.username}) 
 Email : [${data.email}](${data.email})
-`
-;
+`;
 }
 
 module.exports = generateMarkdown;
