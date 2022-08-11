@@ -46,39 +46,37 @@ ${renderLicenseBadge(data.license)}
 - [Usage](#usage)
 - [Questions?](#questions)
 
-<br>
 
 ## Description
 ${data.description}
-<br>
+
 
 ## Installation
 ${data.installation}
 
-<br>
+
 ## License
 ${renderLicenseSection(data.license)}
 
-<br>
+
 ## Contributors
 ${data.contributors}
 
-<br>
 ## Tests
 ${data.test}
 
-<br>
+
 ## Usage
 ${data.usage}
 
-<br>
+
 ## Questions
-<br>
+
 Contact Me:
 Github: [${data.username}](https://github.com/${data.username}) 
 Email : [${data.email}](${data.email})
-
-`;
+`
+;
 }
 
 module.exports = generateMarkdown;

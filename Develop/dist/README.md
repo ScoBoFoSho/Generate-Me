@@ -1,26 +1,28 @@
 
-# Project
+# Generate-ME
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
 
 
 ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [License](#license)
-- [Contributors](#contributors)
-- [Tests](#tests)
-- [Usage](#usage)
-- [Questions?](#questions)
+- [Generate-ME](#generate-me)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [License](#license)
+  - [Contributors](#contributors)
+  - [Tests](#tests)
+  - [Usage](#usage)
+  - [Questions](#questions)
 
 <br>
 
 ## Description
-details
+A README.md generator that takes in user data and creates professional README.mds
 <br>
 
 ## Installation
-install
+node and inquirer
 
 <br>
 ## License
@@ -32,7 +34,7 @@ install
 
 <br>
 ## Contributors
-no one
+Francisco Ferre
 
 <br>
 ## Tests
@@ -40,12 +42,12 @@ undefined
 
 <br>
 ## Usage
-yes
+node index.js
 
 <br>
 ## Questions
 <br>
 Contact Me:
-Github: [yes](https://github.com/yes) 
-Email : [yes](yes)
+Github: [ScoBoFoSho](https://github.com/ScoBoFoSho) 
+Email : [ferrecisco@icloud.com](ferrecisco@icloud.com)
 
