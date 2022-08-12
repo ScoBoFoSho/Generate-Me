@@ -1,18 +1,17 @@
+
 # Generate-Me
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
 
 
 ## Table of Contents
-- [Generate-Me](#generate-me)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Installation](#installation)
-  - [License](#license)
-  - [Contributors](#contributors)
-  - [Tests](#tests)
-  - [Usage](#usage)
-  - [Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [License](#license)
+- [Contributors](#contributors)
+- [Tests](#tests)
+- [Usage](#usage)
+- [Questions?](#questions)
 
 
 ## Description
