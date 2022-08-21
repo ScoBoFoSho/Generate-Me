@@ -1,5 +1,5 @@
 
-# Generate-Me
+# Team Builder
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
 
@@ -15,11 +15,11 @@
 
 
 ## Description
-This project uses Node.js and Inquirer to generate porfessional README.mds dynamically based on user data
+A Node.js application that uses Jest and Inquirer to test objects and use them in a prompt, which creates an Html document for displaying team member information
 
 
 ## Installation
-Node.js, FS, and Inquirer
+NPM, Inquirer, Jest
 
 
 ## License
@@ -34,11 +34,11 @@ Node.js, FS, and Inquirer
 Francisco Ferre
 
 ## Tests
-ECHO
+Jest (employee.test.js, manager.test.js, engineer.test.js, intern.test.js)
 
 
 ## Usage
-node index.js
+node index || node index.js
 
 
 ## Questions
